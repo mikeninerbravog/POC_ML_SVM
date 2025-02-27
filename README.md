@@ -45,8 +45,8 @@ This approach is commonly used in **email services, cybersecurity, and corporate
 ## 📂 **Project Structure**
 The code is available in Google Colab notebooks:
 
-- [Handwritten Digit Recognition - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_SVM_HandwrittenDigits/blob/master/POC_SVM_HandwrittenDigits.ipynb)
-- [Spam Detection - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_SVM_SpamDetection/blob/master/POC_SVM_SpamDetection.ipynb)
+- [Handwritten Digit Recognition - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_ML_SVM/blob/master/POC_ML_SVM.ipynb)
+- [Spam Detection - Open in Colab](https://colab.research.google.com/github/mikeninerbravog/POC_ML_SVM/blob/master/POC_ML_SVM.ipynb)
 
 Each notebook includes:
 - **Data preprocessing** for both use cases.
